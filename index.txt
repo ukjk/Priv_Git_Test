@@ -15,6 +15,7 @@
 			<li>FROM test2 br</li>
 			<li>충돌</li>
 			<li>원격저장소</li>
+			<li>from Main</li>
 		</ul>
 	</body>
 </html>
