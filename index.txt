@@ -17,6 +17,7 @@
 			<li>충돌해결</li>
 			<li>원격저장소</li>
 			<li>from Main</li>
+			<li>from Main2</li>
 		</ul>
 	</body>
 </html>
