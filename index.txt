@@ -13,6 +13,7 @@
 			<li>L2</li>
 			<li>L3 from Main</li>
 			<li>FROM test2 br</li>
+			<li>Ãæµ¹</li>
 		</ul>
 	</body>
 </html>
