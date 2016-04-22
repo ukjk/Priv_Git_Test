@@ -5,6 +5,7 @@
 		</header>
 		<ul>
 			<li>L1</li>
+			<li>L2</li>
 		</ul>
 	</body>
 </html>
