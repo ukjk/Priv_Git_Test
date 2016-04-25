@@ -26,6 +26,7 @@
 			<li>Another push</li>
 			<li>push.original</li>
 			<li>push.from.test</li>
+			<li>push.from.origin</li>
 		</ul>
 	</body>
 </html>
