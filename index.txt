@@ -9,25 +9,15 @@
 			<h1>Git</h1>
 		</header>
 		<ul>
-			<li>2npush.original</li>
-			<li>L1</li>
-			<li>L2</li>
-			<li>L3 from Main</li>
-			<li>FROM test2 br</li>
-			<li>충돌</li>
-			<li>충돌해결</li>
-			<li>원격저장소</li>
-			<li>from Main</li>
-			<li>from Main2</li>
-			<li>from test3</li>
-			<li>from Main</li>
-			<li>from Test4</li>
-			<li>push</li>
-			<li>Another push</li>
-			<li>push.original</li>
-			<li>push.from.test</li>
-			<li>push.from.origin</li>
-			<li>push2.from.test</li>
+			<li>1</li>
+			<li>2</li>
+			<li>3</li>
+			<li>4</li>
+			<li>5</li>
+			<li>6</li>
+			<li>7</li>
+			<li>8</li>
+			<li>9</li>
 		</ul>
 	</body>
 </html>
